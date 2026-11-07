@@ -3,14 +3,13 @@
 <img src="assets/sahayak_logo.jpg" alt="SAHAYAK AI Logo" width="220" style="border-radius: 20px; box-shadow: 0 8px 24px rgba(0,0,0,0.12);" />
 
 # SAHAYAK AI
-### A Culturally-Adaptive, Privacy-Preserving Agentic AI Mental Health Companion
+### Your Companion for Mental Wellness
 
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![LangGraph](https://img.shields.io/badge/Agentic%20Framework-LangGraph%20StateGraph-FF6F00?logo=langchain&logoColor=white)](https://github.com/langchain-ai/langgraph)
 [![Ollama](https://img.shields.io/badge/Local%20LLM-Ollama%20(gemma2%3A2b)-black?logo=ollama&logoColor=white)](https://ollama.com/)
 [![ChromaDB](https://img.shields.io/badge/Vector%20Store-ChromaDB-blue)](https://www.trychroma.com/)
 [![Streamlit](https://img.shields.io/badge/UI-Streamlit-FF4B4B?logo=streamlit&logoColor=white)](https://streamlit.io/)
-[![Privacy-First](https://img.shields.io/badge/Data%20Privacy-100%25%20Offline%20%2F%20Local-success)](#-why-sahayak-ai)
 
 *Listen · Support · Empower*
 
@@ -25,7 +24,7 @@
 Unlike monolithic LLM wrappers or simple conversational chatbots, SAHAYAK AI operates as a **coordinated multi-agent cognitive network** where specialized sub-agents perform sensory intake, clinical risk assessment, domain-routed retrieval, stateful memory persistence, and iterative self-reflection before delivering any response.
 
 ### Core Capabilities:
-1. **Dual-Framework Cognitive Healing**: Unifies evidence-based psychological modalities (**CBT**, **ACT**, **DBT**, Mindfulness) with culturally resonant philosophical frameworks (e.g., **Bhagavad Gita** concepts of *Karma Yoga*, detachment from outcomes, duty, emotional equanimity, and collectivist family coping).
+1. **Dual-Framework Cognitive Healing**: Unifies evidence-based psychological modalities with culturally resonant philosophical frameworks (e.g., **Bhagavad Gita** concepts of *Karma Yoga*, detachment from outcomes, duty, emotional equanimity, and collectivist family coping).
 2. **Clinical Exemplar Grounding**: Employs an agentic retrieval tool over **24 curated psychiatric exemplar demonstrations**, structuring outputs into a proven 4-stage therapeutic sequence:
    $$\text{Emotional Validation} \longrightarrow \text{Cognitive Reframing} \longrightarrow \text{Actionable Coping Strategy} \longrightarrow \text{Philosophical / Cultural Grounding}$$
 3. **Actor-Critic Guardrails with Self-Correction**: Implements an iterative reflection loop where six independent critic nodes evaluate the draft for harm, cultural bias, stereotyping, and hallucinations, automatically requesting retries if safety thresholds are breached.
@@ -79,7 +78,7 @@ Mental health disclosures contain the most intimate thoughts an individual can s
 
 ---
 
-## ⚙️ Agentic AI Architecture & Cognitive Workflow
+## Agentic AI Architecture & Cognitive Workflow
 
 SAHAYAK AI coordinates specialized sub-agents and tool-use nodes through a stateful **LangGraph StateGraph** cyclic workflow:
 
@@ -283,9 +282,7 @@ sahayak-ai/
 │   ├── ingest.py                  # Embedding & vector database indexing script
 │   ├── vector_store.py            # ChromaDB multi-collection query interface
 │   └── data/                      # JSON data corpora (Gita, CBT, Cultural, Exemplars)
-├── config.py                      # Central configuration constants & paths
-├── flow.md                        # Exhaustive node-by-node architecture documentation
-├── decision.md                    # Engineering decision records (D-001 through D-013)
+├── config.py                      # Central configuration constants & 
 ├── requirements.txt               # Lightweight Python dependencies
 ├── streamlit_app.py               # Streamlit web application & conversation UI
 └── README.md                      # Project documentation
