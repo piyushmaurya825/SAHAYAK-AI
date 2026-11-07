@@ -11,7 +11,6 @@
 [![ChromaDB](https://img.shields.io/badge/Vector%20Store-ChromaDB-blue)](https://www.trychroma.com/)
 [![Streamlit](https://img.shields.io/badge/UI-Streamlit-FF4B4B?logo=streamlit&logoColor=white)](https://streamlit.io/)
 [![Privacy-First](https://img.shields.io/badge/Data%20Privacy-100%25%20Offline%20%2F%20Local-success)](#-why-sahayak-ai)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 *Listen · Support · Empower*
 
@@ -80,48 +79,14 @@ Mental health disclosures contain the most intimate thoughts an individual can s
 
 ---
 
-## Agentic AI Architecture & Cognitive Workflow
+## ⚙️ Agentic AI Architecture & Cognitive Workflow
 
 SAHAYAK AI coordinates specialized sub-agents and tool-use nodes through a stateful **LangGraph StateGraph** cyclic workflow:
 
-```mermaid
-flowchart TD
-    User([User Message]) --> MemAgent[Memory Sub-Agent: Load User Profile & Epistemic State]
-    MemAgent --> IntakeAgents[Perception Sub-Agents: Multi-Dimensional Intake]
-    
-    subgraph S_Intake [Perception Sub-Agents]
-        IntakeAgents -.-> E1[Clinical Emotion Lexicon]
-        IntakeAgents -.-> E2[Cultural Profiler Agent]
-        IntakeAgents -.-> E3[Faith & Spiritual Alignment Agent]
-        IntakeAgents -.-> E4[Values & Core Conflict Detector]
-        IntakeAgents -.-> E5[Communication Preference Agent]
-    end
-
-    E1 & E2 & E3 & E4 & E5 --> SupervisorNode{Supervisor Agent: Clinical Safety Router}
-    
-    SupervisorNode -- "Conditional Edge: ACUTE Risk" --> FailsafeCircuit[Failsafe Circuit-Breaker: Deterministic Crisis Protocol]
-    FailsafeCircuit --> UI([Streamlit UI Response])
-    
-    SupervisorNode -- "Conditional Edge: Safe / Moderate" --> PlanAgent[Orchestrator Agent: Compatibility & Response Planner]
-    PlanAgent --> ToolRAG[Agentic RAG: HyDE Query Decomposer & Vector Tool]
-    
-    subgraph S_KB [Multi-Domain Knowledge Bases]
-        ToolRAG -.-> K1[(Bhagavad Gita Corpus)]
-        ToolRAG -.-> K2[(CBT / ACT Modalities)]
-        ToolRAG -.-> K3[(Cultural Coping)]
-        ToolRAG -.-> K4[(Guided Exemplars)]
-        ToolRAG -.-> K5[(Regional Resources)]
-    end
-    
-    K1 & K2 & K3 & K4 & K5 --> ActorAgent[Actor Agent: Therapeutic Response Generator]
-    ActorAgent --> CriticAgent{Critic & Reflection Loop: 6 Guardrail Judges}
-    
-    CriticAgent -- "Reflection Triggered (Critique Feedback / Retry <= 2)" --> ActorAgent
-    CriticAgent -- "All Checks Passed" --> StoreAgent[Stateful Memory Store: PII Redaction & SQLite Persistence]
-    
-    StoreAgent --> MetaEval[Meta-Evaluation Agent: LLM-as-a-Judge Metrics]
-    MetaEval --> UI
-```
+<div align="center">
+  <img src="architecture.png" alt="SAHAYAK AI Agentic Cognitive Architecture" width="100%" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.12);" />
+  <p><em>Figure: End-to-End Multi-Agent Cognitive Workflow and Orchestration in SAHAYAK AI</em></p>
+</div>
 
 ---
 
