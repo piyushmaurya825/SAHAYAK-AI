@@ -1,0 +1,362 @@
+[
+  {
+    "id": "RY-MH-001",
+    "category": "Anxiety and Self-Doubt",
+    "user_prompt": "I am facing a massive challenge and I feel completely inadequate. I don't think I have the skills or strength to handle this.",
+    "support_strategy": "Recognize strengths and build confidence",
+    "guided_response": "Feeling overwhelmed by a challenge can make your abilities hard to see. Pause, take a few slow breaths, and list two or three difficulties you have handled before. Break the current challenge into one small, realistic next step. You do not need to solve everything at once; ask someone you trust for support if that would help.",
+    "target_emotions": [
+      "anxiety",
+      "fear",
+      "inadequacy",
+      "self_doubt"
+    ],
+    "keywords": "anxiety self-doubt i am facing a massive challenge and feel completely inadequate. don't think have the skills or strength to handle this. recognize strengths build confidence coping guidance",
+    "rag_text": "Topic: Anxiety and Self-Doubt\nUser concern: I am facing a massive challenge and I feel completely inadequate. I don't think I have the skills or strength to handle this.\nSupport strategy: Recognize strengths and build confidence\nGuided response: Feeling overwhelmed by a challenge can make your abilities hard to see. Pause, take a few slow breaths, and list two or three difficulties you have handled before. Break the current challenge into one small, realistic next step. You do not need to solve everything at once; ask someone you trust for support if that would help."
+  },
+  {
+    "id": "RY-MH-002",
+    "category": "Navigating Toxic Environments",
+    "user_prompt": "I am surrounded by negative people who constantly mock my values. I feel guilty about wanting to cut them off because they are my family/close colleagues.",
+    "support_strategy": "Set healthy boundaries in difficult relationships",
+    "guided_response": "It can be painful to create distance from people close to you, especially when their behavior repeatedly affects your well-being. You can care about someone while setting limits. Identify the specific behavior that is harmful, state your boundary calmly when safe, and seek support from a trusted person or professional if the situation feels threatening or overwhelming.",
+    "target_emotions": [
+      "anger",
+      "frustration",
+      "guilt",
+      "stress"
+    ],
+    "keywords": "navigating toxic environments i am surrounded by negative people who constantly mock my values. feel guilty about wanting to cut them off because they are family/close colleagues. set healthy boundaries in difficult relationships coping guidance",
+    "rag_text": "Topic: Navigating Toxic Environments\nUser concern: I am surrounded by negative people who constantly mock my values. I feel guilty about wanting to cut them off because they are my family/close colleagues.\nSupport strategy: Set healthy boundaries in difficult relationships\nGuided response: It can be painful to create distance from people close to you, especially when their behavior repeatedly affects your well-being. You can care about someone while setting limits. Identify the specific behavior that is harmful, state your boundary calmly when safe, and seek support from a trusted person or professional if the situation feels threatening or overwhelming."
+  },
+  {
+    "id": "RY-MH-003",
+    "category": "Grief and Loss",
+    "user_prompt": "I recently lost someone very close to me. The grief is unbearable, and I don't know how to keep moving forward when I feel this broken.",
+    "support_strategy": "Allow grief and take recovery one step at a time",
+    "guided_response": "Your grief is valid, and feeling deeply affected can reflect how important the relationship was to you. There is no single correct timeline for grieving. Give yourself space to feel what comes up, keep basic routines where possible, and consider talking with someone supportive. When you feel ready, choose one small task for today rather than expecting yourself to feel better immediately.",
+    "target_emotions": [
+      "grief",
+      "sadness",
+      "loneliness",
+      "despair"
+    ],
+    "keywords": "grief loss i recently lost someone very close to me. the is unbearable, and don't know how keep moving forward when feel this broken. allow take recovery one step at a time coping guidance",
+    "rag_text": "Topic: Grief and Loss\nUser concern: I recently lost someone very close to me. The grief is unbearable, and I don't know how to keep moving forward when I feel this broken.\nSupport strategy: Allow grief and take recovery one step at a time\nGuided response: Your grief is valid, and feeling deeply affected can reflect how important the relationship was to you. There is no single correct timeline for grieving. Give yourself space to feel what comes up, keep basic routines where possible, and consider talking with someone supportive. When you feel ready, choose one small task for today rather than expecting yourself to feel better immediately."
+  },
+  {
+    "id": "RY-MH-004",
+    "category": "Burnout and Asking for Help",
+    "user_prompt": "I feel like I have to do everything by myself. I'm exhausted, but I'm afraid that asking for help makes me look weak or incapable.",
+    "support_strategy": "Accept practical support and share the load",
+    "guided_response": "You do not have to manage every difficulty alone. Asking for help is a practical strength, not a failure. Think of one person you trust and one specific thing they could help with, such as listening, accompanying you to an appointment, or helping with a task. Professional support is also an option when distress is persistent or difficult to manage.",
+    "target_emotions": [
+      "burnout",
+      "exhaustion",
+      "overwhelm",
+      "helplessness"
+    ],
+    "keywords": "burnout asking for help i feel like have to do everything by myself. i'm exhausted, but afraid that makes me look weak or incapable. accept practical support and share the load coping guidance",
+    "rag_text": "Topic: Burnout and Asking for Help\nUser concern: I feel like I have to do everything by myself. I'm exhausted, but I'm afraid that asking for help makes me look weak or incapable.\nSupport strategy: Accept practical support and share the load\nGuided response: You do not have to manage every difficulty alone. Asking for help is a practical strength, not a failure. Think of one person you trust and one specific thing they could help with, such as listening, accompanying you to an appointment, or helping with a task. Professional support is also an option when distress is persistent or difficult to manage."
+  },
+  {
+    "id": "RY-MH-005",
+    "category": "Guilt and Burden of Responsibility",
+    "user_prompt": "I feel incredibly guilty for a situation I didn't directly cause, but I feel responsible for fixing it. It's weighing heavily on my mind.",
+    "support_strategy": "Focus on what is within your control",
+    "guided_response": "It can be exhausting to carry responsibility for circumstances you did not create. Separate what you can influence from what is outside your control. Choose one useful action within your capacity, and allow yourself to set down responsibilities that are not yours to carry. If guilt persists, discuss it with someone you trust or a mental health professional.",
+    "target_emotions": [
+      "guilt",
+      "shame",
+      "remorse",
+      "overwhelm"
+    ],
+    "keywords": "guilt burden responsibility i feel incredibly guilty for a situation didn't directly cause, but responsible fixing it. it's weighing heavily on my mind. focus what is within your control coping guidance",
+    "rag_text": "Topic: Guilt and Burden of Responsibility\nUser concern: I feel incredibly guilty for a situation I didn't directly cause, but I feel responsible for fixing it. It's weighing heavily on my mind.\nSupport strategy: Focus on what is within your control\nGuided response: It can be exhausting to carry responsibility for circumstances you did not create. Separate what you can influence from what is outside your control. Choose one useful action within your capacity, and allow yourself to set down responsibilities that are not yours to carry. If guilt persists, discuss it with someone you trust or a mental health professional."
+  },
+  {
+    "id": "RY-MH-006",
+    "category": "Depression and Hopelessness",
+    "user_prompt": "I feel utterly hopeless and can't see a way out of this darkness.",
+    "support_strategy": "Use coping skills during periods of despair",
+    "guided_response": "When everything feels dark, focus on getting through the next manageable stretch of time rather than solving your whole future today. Try grounding yourself by naming five things you can see, four you can feel, and three you can hear. Reach out to a trusted person and maintain basic needs such as water, food, rest, and safety. If these feelings persist or intensify, seek professional support.",
+    "target_emotions": [
+      "depression",
+      "hopelessness",
+      "sadness",
+      "emptiness"
+    ],
+    "keywords": "depression hopelessness i feel utterly hopeless and can't see a way out of this darkness. use coping skills during periods despair guidance",
+    "rag_text": "Topic: Depression and Hopelessness\nUser concern: I feel utterly hopeless and can't see a way out of this darkness.\nSupport strategy: Use coping skills during periods of despair\nGuided response: When everything feels dark, focus on getting through the next manageable stretch of time rather than solving your whole future today. Try grounding yourself by naming five things you can see, four you can feel, and three you can hear. Reach out to a trusted person and maintain basic needs such as water, food, rest, and safety. If these feelings persist or intensify, seek professional support."
+  },
+  {
+    "id": "RY-MH-007",
+    "category": "Anger Management",
+    "user_prompt": "My temper flares up so easily, and I end up regretting my actions later.",
+    "support_strategy": "Pause before responding to anger",
+    "guided_response": "Anger can narrow your attention and make it harder to choose a response you will feel good about later. If possible, pause the conversation, breathe slowly, and notice what triggered the feeling. Return to the issue when you are calmer and describe the concern without insults or threats. If you fear you might hurt yourself or someone else, create distance and get immediate help.",
+    "target_emotions": [
+      "anger",
+      "annoyance",
+      "rage",
+      "impulsivity"
+    ],
+    "keywords": "anger management my temper flares up so easily, and i end regretting actions later. pause before responding to coping guidance",
+    "rag_text": "Topic: Anger Management\nUser concern: My temper flares up so easily, and I end up regretting my actions later.\nSupport strategy: Pause before responding to anger\nGuided response: Anger can narrow your attention and make it harder to choose a response you will feel good about later. If possible, pause the conversation, breathe slowly, and notice what triggered the feeling. Return to the issue when you are calmer and describe the concern without insults or threats. If you fear you might hurt yourself or someone else, create distance and get immediate help."
+  },
+  {
+    "id": "RY-MH-008",
+    "category": "Boundary Setting",
+    "user_prompt": "I have trouble saying no, and people end up taking advantage of me.",
+    "support_strategy": "Establish and communicate healthy boundaries",
+    "guided_response": "Boundaries help protect your time, energy, and emotional well-being. Decide what feels acceptable, communicate your limit clearly and respectfully, and consider what you will do if the limit is not respected. You can adjust boundaries as circumstances change. If setting a boundary could put you at risk, prioritize safety and seek advice from a trusted person or support service.",
+    "target_emotions": [
+      "anxiety",
+      "guilt",
+      "overwhelm",
+      "people_pleasing"
+    ],
+    "keywords": "boundary setting i have trouble saying no, and people end up taking advantage of me. establish communicate healthy boundaries coping guidance",
+    "rag_text": "Topic: Boundary Setting\nUser concern: I have trouble saying no, and people end up taking advantage of me.\nSupport strategy: Establish and communicate healthy boundaries\nGuided response: Boundaries help protect your time, energy, and emotional well-being. Decide what feels acceptable, communicate your limit clearly and respectfully, and consider what you will do if the limit is not respected. You can adjust boundaries as circumstances change. If setting a boundary could put you at risk, prioritize safety and seek advice from a trusted person or support service."
+  },
+  {
+    "id": "RY-MH-009",
+    "category": "Imposter Syndrome",
+    "user_prompt": "I feel like I don't deserve my success and that soon everyone will find out I'm a fake.",
+    "support_strategy": "Challenge self-doubt with evidence",
+    "guided_response": "Feeling like you are not capable does not mean that the feeling is accurate. Write down the thought that is troubling you, then look for evidence both for and against it. Recall specific skills you have used successfully and identify one small action that would help you test your ability. Progress can be gradual, and asking for feedback or support is reasonable.",
+    "target_emotions": [
+      "fear",
+      "inadequacy",
+      "self_doubt",
+      "shame"
+    ],
+    "keywords": "imposter syndrome i feel like don't deserve my success and that soon everyone will find out i'm a fake. challenge self-doubt with evidence coping guidance",
+    "rag_text": "Topic: Imposter Syndrome\nUser concern: I feel like I don't deserve my success and that soon everyone will find out I'm a fake.\nSupport strategy: Challenge self-doubt with evidence\nGuided response: Feeling like you are not capable does not mean that the feeling is accurate. Write down the thought that is troubling you, then look for evidence both for and against it. Recall specific skills you have used successfully and identify one small action that would help you test your ability. Progress can be gradual, and asking for feedback or support is reasonable."
+  },
+  {
+    "id": "RY-MH-010",
+    "category": "Fear of Failure",
+    "user_prompt": "I'm terrified of starting this new project because I'm sure I'll fail.",
+    "support_strategy": "Approach fear through small, supported steps",
+    "guided_response": "Fear of failure is common when something matters to you. Define a small first step that feels challenging but manageable, and decide what support or preparation would make it easier. Treat the outcome as information you can learn from, not a verdict on your worth. You can pause, revise your plan, and try again.",
+    "target_emotions": [
+      "fear",
+      "anxiety",
+      "dread",
+      "perfectionism"
+    ],
+    "keywords": "fear failure i'm terrified of starting this new project because sure i'll fail. approach through small, supported steps coping guidance",
+    "rag_text": "Topic: Fear of Failure\nUser concern: I'm terrified of starting this new project because I'm sure I'll fail.\nSupport strategy: Approach fear through small, supported steps\nGuided response: Fear of failure is common when something matters to you. Define a small first step that feels challenging but manageable, and decide what support or preparation would make it easier. Treat the outcome as information you can learn from, not a verdict on your worth. You can pause, revise your plan, and try again."
+  },
+  {
+    "id": "RY-MH-011",
+    "category": "Forgiveness",
+    "user_prompt": "I can't seem to let go of the anger I hold towards someone who hurt me deeply.",
+    "support_strategy": "Work toward release from resentment at your own pace",
+    "guided_response": "Resentment can be draining, especially when you have been hurt. You do not have to excuse harmful behavior or reconcile with someone to begin caring for yourself. Consider what you need now—distance, a conversation, support, or time—and focus on choices that protect your well-being. Letting go, if it happens, can be gradual and does not require denying what occurred.",
+    "target_emotions": [
+      "anger",
+      "resentment",
+      "bitterness",
+      "sadness"
+    ],
+    "keywords": "forgiveness i can't seem to let go of the anger hold towards someone who hurt me deeply. work toward release from resentment at your own pace coping guidance",
+    "rag_text": "Topic: Forgiveness\nUser concern: I can't seem to let go of the anger I hold towards someone who hurt me deeply.\nSupport strategy: Work toward release from resentment at your own pace\nGuided response: Resentment can be draining, especially when you have been hurt. You do not have to excuse harmful behavior or reconcile with someone to begin caring for yourself. Consider what you need now—distance, a conversation, support, or time—and focus on choices that protect your well-being. Letting go, if it happens, can be gradual and does not require denying what occurred."
+  },
+  {
+    "id": "RY-MH-012",
+    "category": "Patience and Endurance",
+    "user_prompt": "I've been dealing with this difficult situation for so long, I don't know how much more I can take.",
+    "support_strategy": "Build resilience through manageable routines",
+    "guided_response": "Long periods of uncertainty can be tiring. Rather than assuming that hardship automatically makes you stronger, identify what support would help you cope today. Keep goals small, maintain a simple routine where possible, and make room for rest and connection. Review your plan as circumstances change, and seek help if the strain is affecting daily life.",
+    "target_emotions": [
+      "exhaustion",
+      "hopelessness",
+      "impatience",
+      "frustration"
+    ],
+    "keywords": "patience endurance i've been dealing with this difficult situation for so long, i don't know how much more can take. build resilience through manageable routines coping guidance",
+    "rag_text": "Topic: Patience and Endurance\nUser concern: I've been dealing with this difficult situation for so long, I don't know how much more I can take.\nSupport strategy: Build resilience through manageable routines\nGuided response: Long periods of uncertainty can be tiring. Rather than assuming that hardship automatically makes you stronger, identify what support would help you cope today. Keep goals small, maintain a simple routine where possible, and make room for rest and connection. Review your plan as circumstances change, and seek help if the strain is affecting daily life."
+  },
+  {
+    "id": "RY-MH-013",
+    "category": "Identity Crisis",
+    "user_prompt": "I'm struggling to figure out who I really am and what I stand for.",
+    "support_strategy": "Shape your identity through values and choices",
+    "guided_response": "Your background or past mistakes do not have to define every future choice. Identify two values that matter to you, such as honesty, kindness, or responsibility, and choose one small action that reflects them today. Be realistic and compassionate with yourself while you learn. If questions about identity are causing significant distress, talking them through with a trusted person or counselor may help.",
+    "target_emotions": [
+      "confusion",
+      "purposelessness",
+      "alienation",
+      "uncertainty"
+    ],
+    "keywords": "identity crisis i'm struggling to figure out who i really am and what stand for. shape your through values choices coping guidance",
+    "rag_text": "Topic: Identity Crisis\nUser concern: I'm struggling to figure out who I really am and what I stand for.\nSupport strategy: Shape your identity through values and choices\nGuided response: Your background or past mistakes do not have to define every future choice. Identify two values that matter to you, such as honesty, kindness, or responsibility, and choose one small action that reflects them today. Be realistic and compassionate with yourself while you learn. If questions about identity are causing significant distress, talking them through with a trusted person or counselor may help."
+  },
+  {
+    "id": "RY-MH-014",
+    "category": "Loneliness",
+    "user_prompt": "I feel so alone, even when I'm surrounded by people.",
+    "support_strategy": "Respond to loneliness by creating connection",
+    "guided_response": "Loneliness can feel heavy, and acknowledging it is an important first step. Consider sending a brief message to someone you trust, joining an activity with shared interests, or arranging a regular check-in. Start with a small interaction if a larger social step feels difficult. If loneliness is persistent or accompanied by low mood, professional support may be useful.",
+    "target_emotions": [
+      "loneliness",
+      "isolation",
+      "disconnection",
+      "sadness"
+    ],
+    "keywords": "loneliness i feel so alone, even when i'm surrounded by people. respond to creating connection coping guidance",
+    "rag_text": "Topic: Loneliness\nUser concern: I feel so alone, even when I'm surrounded by people.\nSupport strategy: Respond to loneliness by creating connection\nGuided response: Loneliness can feel heavy, and acknowledging it is an important first step. Consider sending a brief message to someone you trust, joining an activity with shared interests, or arranging a regular check-in. Start with a small interaction if a larger social step feels difficult. If loneliness is persistent or accompanied by low mood, professional support may be useful."
+  },
+  {
+    "id": "RY-MH-015",
+    "category": "Decision Fatigue",
+    "user_prompt": "I have so many choices to make that I feel paralyzed and can't do anything.",
+    "support_strategy": "Make difficult decisions in a structured way",
+    "guided_response": "When a decision feels exhausting, give yourself permission to pause if it is safe to do so. Write down the options, what matters most to you, likely benefits and risks, and what information is still missing. Discuss the decision with someone trustworthy, then choose a manageable next step. Not every decision needs to be made immediately.",
+    "target_emotions": [
+      "confusion",
+      "overwhelm",
+      "indecision",
+      "anxiety"
+    ],
+    "keywords": "decision fatigue i have so many choices to make that feel paralyzed and can't do anything. difficult decisions in a structured way coping guidance",
+    "rag_text": "Topic: Decision Fatigue\nUser concern: I have so many choices to make that I feel paralyzed and can't do anything.\nSupport strategy: Make difficult decisions in a structured way\nGuided response: When a decision feels exhausting, give yourself permission to pause if it is safe to do so. Write down the options, what matters most to you, likely benefits and risks, and what information is still missing. Discuss the decision with someone trustworthy, then choose a manageable next step. Not every decision needs to be made immediately."
+  },
+  {
+    "id": "RY-MH-016",
+    "category": "Depression and Hopelessness",
+    "user_prompt": "I feel utterly hopeless and can't see a way out of this darkness.",
+    "support_strategy": "Use coping skills during periods of despair",
+    "guided_response": "When everything feels dark, focus on getting through the next manageable stretch of time rather than solving your whole future today. Try grounding yourself by naming five things you can see, four you can feel, and three you can hear. Reach out to a trusted person and maintain basic needs such as water, food, rest, and safety. If these feelings persist or intensify, seek professional support.",
+    "target_emotions": [
+      "depression",
+      "hopelessness",
+      "sadness",
+      "emptiness"
+    ],
+    "keywords": "depression hopelessness i feel utterly hopeless and can't see a way out of this darkness. use coping skills during periods despair guidance",
+    "rag_text": "Topic: Depression and Hopelessness\nUser concern: I feel utterly hopeless and can't see a way out of this darkness.\nSupport strategy: Use coping skills during periods of despair\nGuided response: When everything feels dark, focus on getting through the next manageable stretch of time rather than solving your whole future today. Try grounding yourself by naming five things you can see, four you can feel, and three you can hear. Reach out to a trusted person and maintain basic needs such as water, food, rest, and safety. If these feelings persist or intensify, seek professional support."
+  },
+  {
+    "id": "RY-MH-017",
+    "category": "Anger Management",
+    "user_prompt": "My temper flares up so easily, and I end up regretting my actions later.",
+    "support_strategy": "Pause before responding to anger",
+    "guided_response": "Anger can narrow your attention and make it harder to choose a response you will feel good about later. If possible, pause the conversation, breathe slowly, and notice what triggered the feeling. Return to the issue when you are calmer and describe the concern without insults or threats. If you fear you might hurt yourself or someone else, create distance and get immediate help.",
+    "target_emotions": [
+      "anger",
+      "annoyance",
+      "rage",
+      "impulsivity"
+    ],
+    "keywords": "anger management my temper flares up so easily, and i end regretting actions later. pause before responding to coping guidance",
+    "rag_text": "Topic: Anger Management\nUser concern: My temper flares up so easily, and I end up regretting my actions later.\nSupport strategy: Pause before responding to anger\nGuided response: Anger can narrow your attention and make it harder to choose a response you will feel good about later. If possible, pause the conversation, breathe slowly, and notice what triggered the feeling. Return to the issue when you are calmer and describe the concern without insults or threats. If you fear you might hurt yourself or someone else, create distance and get immediate help."
+  },
+  {
+    "id": "RY-MH-018",
+    "category": "Boundary Setting",
+    "user_prompt": "I have trouble saying no, and people end up taking advantage of me.",
+    "support_strategy": "Establish and communicate healthy boundaries",
+    "guided_response": "Boundaries help protect your time, energy, and emotional well-being. Decide what feels acceptable, communicate your limit clearly and respectfully, and consider what you will do if the limit is not respected. You can adjust boundaries as circumstances change. If setting a boundary could put you at risk, prioritize safety and seek advice from a trusted person or support service.",
+    "target_emotions": [
+      "anxiety",
+      "guilt",
+      "overwhelm",
+      "people_pleasing"
+    ],
+    "keywords": "boundary setting i have trouble saying no, and people end up taking advantage of me. establish communicate healthy boundaries coping guidance",
+    "rag_text": "Topic: Boundary Setting\nUser concern: I have trouble saying no, and people end up taking advantage of me.\nSupport strategy: Establish and communicate healthy boundaries\nGuided response: Boundaries help protect your time, energy, and emotional well-being. Decide what feels acceptable, communicate your limit clearly and respectfully, and consider what you will do if the limit is not respected. You can adjust boundaries as circumstances change. If setting a boundary could put you at risk, prioritize safety and seek advice from a trusted person or support service."
+  },
+  {
+    "id": "RY-MH-019",
+    "category": "Imposter Syndrome",
+    "user_prompt": "I feel like I don't deserve my success and that soon everyone will find out I'm a fake.",
+    "support_strategy": "Challenge self-doubt with evidence",
+    "guided_response": "Feeling like you are not capable does not mean that the feeling is accurate. Write down the thought that is troubling you, then look for evidence both for and against it. Recall specific skills you have used successfully and identify one small action that would help you test your ability. Progress can be gradual, and asking for feedback or support is reasonable.",
+    "target_emotions": [
+      "fear",
+      "inadequacy",
+      "self_doubt",
+      "shame"
+    ],
+    "keywords": "imposter syndrome i feel like don't deserve my success and that soon everyone will find out i'm a fake. challenge self-doubt with evidence coping guidance",
+    "rag_text": "Topic: Imposter Syndrome\nUser concern: I feel like I don't deserve my success and that soon everyone will find out I'm a fake.\nSupport strategy: Challenge self-doubt with evidence\nGuided response: Feeling like you are not capable does not mean that the feeling is accurate. Write down the thought that is troubling you, then look for evidence both for and against it. Recall specific skills you have used successfully and identify one small action that would help you test your ability. Progress can be gradual, and asking for feedback or support is reasonable."
+  },
+  {
+    "id": "RY-MH-020",
+    "category": "Fear of Failure",
+    "user_prompt": "I'm terrified of starting this new project because I'm sure I'll fail.",
+    "support_strategy": "Approach fear through small, supported steps",
+    "guided_response": "Fear of failure is common when something matters to you. Define a small first step that feels challenging but manageable, and decide what support or preparation would make it easier. Treat the outcome as information you can learn from, not a verdict on your worth. You can pause, revise your plan, and try again.",
+    "target_emotions": [
+      "fear",
+      "anxiety",
+      "dread",
+      "perfectionism"
+    ],
+    "keywords": "fear failure i'm terrified of starting this new project because sure i'll fail. approach through small, supported steps coping guidance",
+    "rag_text": "Topic: Fear of Failure\nUser concern: I'm terrified of starting this new project because I'm sure I'll fail.\nSupport strategy: Approach fear through small, supported steps\nGuided response: Fear of failure is common when something matters to you. Define a small first step that feels challenging but manageable, and decide what support or preparation would make it easier. Treat the outcome as information you can learn from, not a verdict on your worth. You can pause, revise your plan, and try again."
+  },
+  {
+    "id": "RY-MH-021",
+    "category": "Forgiveness",
+    "user_prompt": "I can't seem to let go of the anger I hold towards someone who hurt me deeply.",
+    "support_strategy": "Work toward release from resentment at your own pace",
+    "guided_response": "Resentment can be draining, especially when you have been hurt. You do not have to excuse harmful behavior or reconcile with someone to begin caring for yourself. Consider what you need now—distance, a conversation, support, or time—and focus on choices that protect your well-being. Letting go, if it happens, can be gradual and does not require denying what occurred.",
+    "target_emotions": [
+      "anger",
+      "resentment",
+      "bitterness",
+      "sadness"
+    ],
+    "keywords": "forgiveness i can't seem to let go of the anger hold towards someone who hurt me deeply. work toward release from resentment at your own pace coping guidance",
+    "rag_text": "Topic: Forgiveness\nUser concern: I can't seem to let go of the anger I hold towards someone who hurt me deeply.\nSupport strategy: Work toward release from resentment at your own pace\nGuided response: Resentment can be draining, especially when you have been hurt. You do not have to excuse harmful behavior or reconcile with someone to begin caring for yourself. Consider what you need now—distance, a conversation, support, or time—and focus on choices that protect your well-being. Letting go, if it happens, can be gradual and does not require denying what occurred."
+  },
+  {
+    "id": "RY-MH-022",
+    "category": "Patience and Endurance",
+    "user_prompt": "I've been dealing with this difficult situation for so long, I don't know how much more I can take.",
+    "support_strategy": "Build resilience through manageable routines",
+    "guided_response": "Long periods of uncertainty can be tiring. Rather than assuming that hardship automatically makes you stronger, identify what support would help you cope today. Keep goals small, maintain a simple routine where possible, and make room for rest and connection. Review your plan as circumstances change, and seek help if the strain is affecting daily life.",
+    "target_emotions": [
+      "exhaustion",
+      "hopelessness",
+      "impatience",
+      "frustration"
+    ],
+    "keywords": "patience endurance i've been dealing with this difficult situation for so long, i don't know how much more can take. build resilience through manageable routines coping guidance",
+    "rag_text": "Topic: Patience and Endurance\nUser concern: I've been dealing with this difficult situation for so long, I don't know how much more I can take.\nSupport strategy: Build resilience through manageable routines\nGuided response: Long periods of uncertainty can be tiring. Rather than assuming that hardship automatically makes you stronger, identify what support would help you cope today. Keep goals small, maintain a simple routine where possible, and make room for rest and connection. Review your plan as circumstances change, and seek help if the strain is affecting daily life."
+  },
+  {
+    "id": "RY-MH-023",
+    "category": "Identity Crisis",
+    "user_prompt": "I'm struggling to figure out who I really am and what I stand for.",
+    "support_strategy": "Shape your identity through values and choices",
+    "guided_response": "Your background or past mistakes do not have to define every future choice. Identify two values that matter to you, such as honesty, kindness, or responsibility, and choose one small action that reflects them today. Be realistic and compassionate with yourself while you learn. If questions about identity are causing significant distress, talking them through with a trusted person or counselor may help.",
+    "target_emotions": [
+      "confusion",
+      "purposelessness",
+      "alienation",
+      "uncertainty"
+    ],
+    "keywords": "identity crisis i'm struggling to figure out who i really am and what stand for. shape your through values choices coping guidance",
+    "rag_text": "Topic: Identity Crisis\nUser concern: I'm struggling to figure out who I really am and what I stand for.\nSupport strategy: Shape your identity through values and choices\nGuided response: Your background or past mistakes do not have to define every future choice. Identify two values that matter to you, such as honesty, kindness, or responsibility, and choose one small action that reflects them today. Be realistic and compassionate with yourself while you learn. If questions about identity are causing significant distress, talking them through with a trusted person or counselor may help."
+  },
+  {
+    "id": "RY-MH-024",
+    "category": "Loneliness",
+    "user_prompt": "I feel so alone, even when I'm surrounded by people.",
+    "support_strategy": "Respond to loneliness by creating connection",
+    "guided_response": "Loneliness can feel heavy, and acknowledging it is an important first step. Consider sending a brief message to someone you trust, joining an activity with shared interests, or arranging a regular check-in. Start with a small interaction if a larger social step feels difficult. If loneliness is persistent or accompanied by low mood, professional support may be useful.",
+    "target_emotions": [
+      "loneliness",
+      "isolation",
+      "disconnection",
+      "sadness"
+    ],
+    "keywords": "loneliness i feel so alone, even when i'm surrounded by people. respond to creating connection coping guidance",
+    "rag_text": "Topic: Loneliness\nUser concern: I feel so alone, even when I'm surrounded by people.\nSupport strategy: Respond to loneliness by creating connection\nGuided response: Loneliness can feel heavy, and acknowledging it is an important first step. Consider sending a brief message to someone you trust, joining an activity with shared interests, or arranging a regular check-in. Start with a small interaction if a larger social step feels difficult. If loneliness is persistent or accompanied by low mood, professional support may be useful."
+  }
+]
